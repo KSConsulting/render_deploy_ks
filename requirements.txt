@@ -5,8 +5,6 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 gunicorn==20.1.0
-numpy==1.24.3
-numpydoc==1.5.0
 pandas==2.0.1
 pandas-eda==1.1.1
 pandas-profiling==3.2.0
